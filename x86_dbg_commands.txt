@@ -1,0 +1,4 @@
+file game_server
+core game_server.core.locked
+bt
+quit

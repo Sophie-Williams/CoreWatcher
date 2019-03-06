@@ -1,0 +1,5 @@
+set gnutarget i386-marcel-freebsd
+file game_server
+core game_server.core.locked
+bt
+quit
